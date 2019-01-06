@@ -12,4 +12,7 @@ Features:
  - Multipath
  - and more
  
+ Requires:
+  - Eigen
+ 
  
